@@ -303,7 +303,7 @@ const Chat = () => {
                     <div className={styles.chatInput}>
                         <QuestionInput
                             clearOnSend
-                            placeholder="Type a new question (e.g. How much is CoreSite every month?)"
+                            placeholder="Type a new question (e.g. How much is Zoom per month?)"
                             disabled={isLoading}
                             onSend={question => makeApiRequest(question)}
                         />
