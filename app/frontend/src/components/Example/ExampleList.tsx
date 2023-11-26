@@ -12,8 +12,8 @@ const EXAMPLES: ExampleModel[] = [
         text: "How much was Wildfire on Palo Alto 850?",
         value: "How much was Wildfire on Palo Alto 850?"
     },
-    { text: "How much was our Junper renewal?", value: "How much was our Junper renewal?" },
-    { text: "When does our CoreSite contract expire?", value: "When does our CoreSit contract expire?" }
+    { text: "How much was our Mist renewal?", value: "How much was our Mist renewal?" },
+    { text: "When does our CoreSite contract expire?", value: "When does our CoreSite contract expire?" }
 ];
 
 interface Props {

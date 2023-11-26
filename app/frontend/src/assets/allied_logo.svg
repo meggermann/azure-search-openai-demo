@@ -1,0 +1,10 @@
+﻿<svg viewBox="0 0 144 72"
+     xmlns="http://www.w3.org/2000/svg"
+     version="1.1"
+     width="100%"
+     height="100%">
+    <g stroke="white" stroke-width="3">
+        <polygon id="polygon31" points="143.18,71.59 71.59,0 0,71.59 1.46,71.59 71.59,1.46 141.72,71.59" />
+        <polygon id="polygon33" points="71.59,45.05 45.05,71.59 46.51,71.59 71.59,46.51 96.67,71.59 98.13,71.59"/>
+    </g>
+</svg>
